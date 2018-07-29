@@ -2,8 +2,8 @@ name: calibron
 channels:
   - defaults
 dependencies:
-  - numba=0.39.0
-  - progressbar2=3.37.1
-  - matplotlib=2.2.2
-  - python=3.7.0
+  - numba
+  - progressbar2
+  - matplotlib
+  - python=3.6.3
 
